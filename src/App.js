@@ -1,4 +1,4 @@
-import logo from "./dictionary picture one.jpg";
+import logo from "./dictionary logo.png";
 import "./App.css";
 
 function App() {

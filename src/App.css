@@ -3,7 +3,9 @@
 }
 
 .img-fluid {
-  max-width: 200px;
-  display: block;
+  max-width: 400px;
+  float: right;
+  padding-right: 20px;
+
   margin: 0 auto;
 }
