@@ -2,7 +2,7 @@ h3 {
   color: #455d7a;
   text-align: left;
   font-family: "Special Elite", sans-serif;
-  font-size: 24px;
+  font-size: 28px;
 }
 
 .definition {
@@ -13,8 +13,15 @@ h3 {
 }
 
 em {
-  color: rgba(251, 180, 64, 0.5);
+  color: rgba(251, 180, 64, 0.8);
   text-align: left;
   font-family: "Special Elite", sans-serif;
-  font-size: 20px;
+  font-size: 24px;
+}
+.Meaning section {
+  background-color: #e3e3e3;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 20px 0;
+  box-shadow: 0px 5px 15px rgba(255, 255, 255, 0.3);
 }

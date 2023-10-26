@@ -2,5 +2,15 @@ ul {
   color: #455d7a;
   text-align: left;
   font-family: "Special Elite", sans-serif;
-  font-size: 1 82px;
+  font-size: 20px;
+}
+
+.Synonyms {
+  margin: 30px 0 0;
+  padding: 0;
+}
+
+.Synonyms li {
+  display: inline-block;
+  padding-right: 20px;
 }
