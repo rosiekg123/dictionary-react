@@ -13,7 +13,7 @@ p {
 }
 
 em {
-  color: #e3e3e3;
+  color: rgba(251, 180, 64, 0.5);
   text-align: left;
   font-family: "Special Elite", sans-serif;
   font-size: 20px;
